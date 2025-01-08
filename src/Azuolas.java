@@ -1,0 +1,1 @@
+class Azuolas extends Lapuotis {}

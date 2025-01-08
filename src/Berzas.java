@@ -1,0 +1,1 @@
+class Berzas extends Lapuotis {}

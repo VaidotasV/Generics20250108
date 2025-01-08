@@ -1,0 +1,4 @@
+interface Medis {
+    void turi();
+}
+
