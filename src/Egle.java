@@ -1,0 +1,1 @@
+class Egle extends Spygliuotis {}

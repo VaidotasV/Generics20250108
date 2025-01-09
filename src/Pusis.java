@@ -1,0 +1,1 @@
+class Pusis extends Spygliuotis {}

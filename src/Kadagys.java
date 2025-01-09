@@ -1,0 +1,1 @@
+class Kadagys extends Spygliuotis {}
